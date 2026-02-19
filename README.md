@@ -1,15 +1,45 @@
-# 💫 About Me:
-I'm a **software engineering** student in Chile, currently focused on becoming a Frontend Developer.
+# Hi, I'm Paulo Araya 👋
 
+I'm a **Computer Engineering student** in Chile, building full-stack applications and looking for opportunities to grow as a developer. I'm open to remote work and relocation.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/498584874274390022) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pasoo_._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pauloarayarojo) 
+---
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=motelpaso&theme=noctis_minimus&hide_border=true&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=motelpaso&theme=noctis_minimus&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=motelpaso&theme=noctis_minimus&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 🛠️ Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Backend & Tools**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## 🚀 What I'm up to
+
+- 🔭 Currently building full-stack projects to sharpen my skills
+- 🌱 Learning DevOps and CI/CD pipelines
+- 🌍 Open to remote work and relocation
+- 🤝 Looking for internship opportunities in full-stack development
+- 💬 Ask me about Python, FastAPI, or React
+
+---
+
+## 📊 GitHub Stats
+
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MotelPaso&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MotelPaso&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 🔗 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloarayarojo/)
