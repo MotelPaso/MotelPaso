@@ -34,9 +34,8 @@ I'm a **Computer Engineering student** in Chile, building full-stack application
 
 ## 📊 GitHub Stats
 
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MotelPaso&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MotelPaso&layout=compact&theme=dark&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=MotelPaso&theme=material-palenight&hide_border=true)
 
 ---
 
