@@ -1,6 +1,6 @@
 # Hi, I'm Paulo Araya 👋
 
-I'm a **Computer Engineering student** in Chile, building full-stack applications and looking for opportunities to grow as a developer. I'm open to remote work and relocation.
+I'm a **Computer Engineering student** in Chile, building full-stack applications and looking for opportunities to grow as a developer.
 
 ---
 
