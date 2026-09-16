@@ -1,44 +1,26 @@
-# Hi, I'm Paulo Araya 👋
 
-I'm a **Computer Engineering student** in Chile, building full-stack applications and looking for opportunities to grow as a developer.
+- my work has been mostly in frontend, focusing on UI/UX design.
+- i've also taught university-level courses on object-oriented programming and discrete math.
+- i'm trying to learn agentic workflows using opensource ai models to make my work more efficient.
+- i'm looking for an intership right now, my linkedin is on <a href="www.linkedin.com/in/pauloarayarojo">*this link*</a>
+- if you want to reach out to me, you can send me an email to <a href="mailto:paulo.araya21@proton.me" >*paulo.araya21@proton.me*</a>
 
----
+<h6 align="center">the tools i'm most comfortable in:</h6>
+<p align="center"> 
+<img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=astro" alt="astro" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=tauri" alt="tauri" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> 
+</p>
 
-## 🛠️ Tech Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Backend & Tools**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-## 🚀 What I'm up to
-
-- 🔭 Currently building full-stack projects to sharpen my skills
-- 🌱 Learning DevOps and CI/CD pipelines
-- 🌍 Open to remote work and relocation
-- 🤝 Looking for internship opportunities in full-stack development
-- 💬 Ask me about Python, FastAPI, or React
-
----
-
-## 📊 GitHub Stats
-
-
-![](https://nirzak-streak-stats.vercel.app/?user=MotelPaso&theme=material-palenight&hide_border=true)
-
----
-
-## 🔗 Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloarayarojo/)
