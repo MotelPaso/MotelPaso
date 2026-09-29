@@ -2,7 +2,7 @@
 - my work has been mostly in frontend, focusing on UI/UX design.
 - i've also taught university-level courses on object-oriented programming and discrete math.
 - i'm trying to learn agentic workflows using opensource ai models to make my work more efficient.
-- i'm looking for an intership right now, my linkedin is on [*this link*](www.linkedin.com/in/pauloarayarojo)
+- i'm looking for an intership right now, my linkedin is on [*this link*](https://www.linkedin.com/in/pauloarayarojo)
 - if you want to reach out to me, you can send me an email to <a href="mailto:paulo.araya21@proton.me" >*paulo.araya21@proton.me*</a>
 
 <h6 align="center">the tools i'm most comfortable in:</h6>
